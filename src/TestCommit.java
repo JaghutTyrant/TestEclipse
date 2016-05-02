@@ -9,6 +9,7 @@ public class TestCommit {
 		myList.add("new string");
 		for (String string : myList) {
 			System.out.println("This is my string: "+string);
+			System.out.println("Just something to add");
 		}
 
 
